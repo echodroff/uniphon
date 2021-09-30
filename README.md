@@ -11,7 +11,9 @@
 - [Illustrations of the IPA: Assamese](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/assamese/FD4090937A7BC4318FCF1117E82313E4)
 - [Related G2P system: Roy & Mahanta (2018)](https://www.isca-speech.org/archive/interspeech_2018/roy18_interspeech.html)
 
-### Brunei Malay (msa)
+### Brunei Malay (brunei_malay)
 - Contributed by David Deterding and Ishamina Athirah
 - [Illustrations of the IPA: Brunei Malay](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/brunei-malay/37436246DB8F85B1EAA498E5389A3D49)
+
+### Standard Malay (zsm)
 - [Illustrations of the IPA: Standard Malay](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/standard-malay-brunei/F08DBC925B1AC32E65E6291C487F845A)
