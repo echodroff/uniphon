@@ -1,7 +1,7 @@
 # UniPhon
 ## Repository of g2p datasets
 
-### A'ingae (Cofán)
+### A'ingae / Cofán (con)
 - Contributed by Chiara Repetti-Ludlow
 - [Illustrations of the IPA: A'ingae (Cofán)](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/aingae-cofan/FF9C79364367200949AC46DC36383D00)
 - Uses Borman orthography (This differs from the orthography used by the community)
