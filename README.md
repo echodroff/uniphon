@@ -25,3 +25,9 @@
 
 ### Standard Malay (zsm)
 - [Illustrations of the IPA: Standard Malay](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/standard-malay-brunei/F08DBC925B1AC32E65E6291C487F845A)
+  
+### Kejom / Babanki 
+- Contributed by Pius Akumbu and Matthew Faytak
+- [Illustrations of the IPA: Kejom (Babanki)](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/kejom-babanki/3578EBCCFA2818E4FCF4455E834DBEC3)
+- sh > ʃ , ch > tʃ , j > dʒ , gh > ɣ ,  ’ > ʔ, ny > ɲ, y > j 
+  
