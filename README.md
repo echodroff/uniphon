@@ -13,6 +13,10 @@
 - [Illustrations of the IPA: Afrikaans](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/afrikaans/2A6D5AC1AE493D1CCE3C1EFF6E0FEE77)
 - [Related G2P system: Is spreekstyl en spreektempo sinonieme? 'n Fonologiese ondersoek](https://www.researchgate.net/journal/Southern-African-Linguistics-and-Applied-Language-Studies-1727-9461)
 
+### Ambel
+- Contributed by Laura Arnold
+- [Illustrations of the IPA: Ambel](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/abs/ambel/D9E2B1D9B3479E646D53D60112712FFD)
+
 ### Assamese (asm)
 - Contributed by Shakuntala Mahanta
 - [Illustrations of the IPA: Assamese](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/assamese/FD4090937A7BC4318FCF1117E82313E4)
@@ -27,7 +31,7 @@
 - [Illustrations of the IPA: Standard Malay](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/standard-malay-brunei/F08DBC925B1AC32E65E6291C487F845A)
   
 ### Kejom / Babanki 
-- Contributed by Pius Akumbu and Matthew Faytak
+- Contributed by Pius W. Akumbu and Matthew Faytak
 - [Illustrations of the IPA: Kejom (Babanki)](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/kejom-babanki/3578EBCCFA2818E4FCF4455E834DBEC3)
 - sh > ʃ , ch > tʃ , j > dʒ , gh > ɣ ,  ’ > ʔ, ny > ɲ, y > j 
   
