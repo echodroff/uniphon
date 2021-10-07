@@ -35,3 +35,8 @@
 - [Illustrations of the IPA: Kejom (Babanki)](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/kejom-babanki/3578EBCCFA2818E4FCF4455E834DBEC3)
 - sh > ʃ , ch > tʃ , j > dʒ , gh > ɣ ,  ’ > ʔ, ny > ɲ, y > j 
   
+## Additional resources:
+- [Chirila Database](http://chirila.yale.edu/languages)
+- [XPF Corpus](https://cohenpr-xpf.github.io/XPF/)
+- [Epitran](https://github.com/dmort27/epitran)
+- [Wikipron](https://github.com/CUNY-CL/wikipron)
