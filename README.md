@@ -21,7 +21,7 @@
 - Contributed by Shakuntala Mahanta
 - [Illustrations of the IPA: Assamese](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/assamese/FD4090937A7BC4318FCF1117E82313E4)
 - [Related G2P system: Roy & Mahanta (2018)](https://www.isca-speech.org/archive/interspeech_2018/roy18_interspeech.html)
-- To do: convert to IPA using phone chart
+- To do: convert phonetic alphabet to IPA using phone chart
 
 ### Brunei Malay (brunei_malay)
 - Contributed by David Deterding and Ishamina Athirah
