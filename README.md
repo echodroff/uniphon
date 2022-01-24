@@ -23,6 +23,10 @@
 - [Related G2P system: Roy & Mahanta (2018)](https://www.isca-speech.org/archive/interspeech_2018/roy18_interspeech.html)
 - To do: convert phonetic alphabet to IPA using phone chart
 
+### Bemba
+- Contributed by Nancy C. Kula and Silke Hamann
+- [Illustrations of the IPA: Bemba](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/bemba/BAE74816CA0A37BEE40DF83233AF9E76)
+  
 ### Brunei Malay (brunei_malay)
 - Contributed by David Deterding and Ishamina Athirah
 - [Illustrations of the IPA: Brunei Malay](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/brunei-malay/37436246DB8F85B1EAA498E5389A3D49)
